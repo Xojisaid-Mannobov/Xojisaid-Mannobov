@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi, I'm Xojisaid 👋
 
-<!--
-**Xojisaid-Mannobov/Xojisaid-Mannobov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Full-stack developer building local-first AI tools and practical web products.
 
-Here are some ideas to get you started:
+I turn ideas into focused, maintainable software — from developer tools and desktop apps to APIs and full-stack platforms. I care about useful automation, clear architecture and keeping users in control.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I'm building
+
+- **LocalModel** — a desktop coding agent powered by Ollama, Electron and Monaco Editor.
+- **Local AI Agent Coder** — a VS Code extension for planning, reviewing and applying AI-generated changes locally.
+- **Practical full-stack products** — Laravel, Inertia and Vue applications backed by reliable APIs and Docker-based workflows.
+
+## Engineering focus
+
+- Building local-first AI developer tools that keep code and context on the user's machine.
+- Designing approval-first automation with visible plans, previews and safe actions.
+- Creating maintainable full-stack systems with simple, dependable architecture.
+- Turning repetitive development workflows into useful products.
+
+## Toolbox
+
+`Laravel` · `Inertia.js` · `Vue.js` · `JavaScript` · `Node.js` · `Python` · `Go` · `Electron` · `Ollama` · `Docker`
+
+## How I build
+
+I prefer software that is fast to understand, easy to operate and honest about what it does. My goal is not to add complexity — it is to remove friction.
+
+---
+
+Open to collaborating on developer tools, local AI and practical product ideas.
