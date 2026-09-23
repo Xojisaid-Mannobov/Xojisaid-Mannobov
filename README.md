@@ -28,6 +28,10 @@
 
 ## Selected work
 
+### [Admin Panel](https://github.com/Xojisaid-Mannobov/admin-panel)
+
+A reusable Vue 3 and TypeScript admin foundation for uzbekona.dev products, with Uzbek localization, role-based workflows, theming, API layers and production-ready tooling.
+
 ### Telekit
 
 A TypeScript-first application framework for building Telegram products — with a CLI, file-based routing, typed callbacks, conversations, localization, testing tools, analytics and an optional admin panel.
@@ -72,7 +76,7 @@ Built and maintained practical bots for moderation, surveys, schedules, admissio
 
 - **uzbekona.dev** — product engineering, reusable foundations and Uzbek-first interfaces.
 - **KUAF** — private academic and administrative workflow systems.
-- **Open-source work** — Telegram tooling, automation, frontend foundations and developer utilities published through my GitHub repositories.
+- **Open-source work** — Telegram tooling, automation, frontend foundations and developer utilities, including the public [Admin Panel](https://github.com/Xojisaid-Mannobov/admin-panel) repository.
 
 ## Toolbox
 
