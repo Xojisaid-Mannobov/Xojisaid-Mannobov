@@ -4,11 +4,6 @@
   </a>
 </p>
 
-<p align="center">
-  <a href="https://uzbekona.dev">
-    <img src="https://github.com/uzbekona-dev.png?size=160" width="120" alt="uzbekona.dev logo" />
-  </a>
-</p>
 
 <h1 align="center">Hi, I'm Xojisaid Mannobov 👋</h1>
 
