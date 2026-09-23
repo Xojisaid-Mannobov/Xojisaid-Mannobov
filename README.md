@@ -1,5 +1,11 @@
 <p align="center">
   <a href="https://uzbekona.dev">
+    <img src="./codex-clipboard-7da97c3b-3c4a-4616-916a-4cf953c6948a.png" width="100%" alt="uzbekona.dev — Building a brighter digital Uzbekistan" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://uzbekona.dev">
     <img src="https://github.com/uzbekona-dev.png?size=160" width="120" alt="uzbekona.dev logo" />
   </a>
 </p>
